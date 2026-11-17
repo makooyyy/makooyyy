@@ -15,7 +15,7 @@
 - 🛠 I build web apps, PWAs and interactive learning tools
 - 📚 Focused on vanilla JavaScript, offline-first experiences and clean UI
 - 🌍 Based in Europe
-- 🔭 Currently working on: [AM-Tracker](https://github.com/makooyyy/AM-Tracker), [CFOP Academy](https://github.com/makooyyy/cfop-academy), [CPU Powtórka](https://github.com/makooyyy/cpu-powtorka)
+- 🔭 Currently working on: [AM-Tracker](https://github.com/makooyyy/AM-Tracker), [CFOP Academy](https://github.com/makooyyy/cfop-academy), [CPU Powtórka](https://github.com/makooyyy/cpu-powtorka), [ChallengeLock](https://github.com/makooyyy/ChallengeLock)
 
 ---
 
@@ -36,7 +36,8 @@
 |---|---|---|
 | [**AM-Tracker**](https://github.com/makooyyy/AM-Tracker) | Manga/manhwa/manhua reading tracker with AniList sync, offline-first PWA | [Demo](https://makooyyy.github.io/AM-Tracker/) |
 | [**CFOP Academy**](https://github.com/makooyyy/cfop-academy) | Interactive trainer for solving Rubik's Cube with CFOP method (OLL/PLL) | [Demo](https://makooyyy.github.io/cfop-academy/) |
-| [**CPU Powtórka**](https://github.com/makooyyy/cpu-powtorka) | Quiz app for CPU, networks and monitors (PL) | [Demo](https://makooyyy.github.io/cpu-powtorka/) |
+| [**ChallengeLock**](https://github.com/makooyyy/ChallengeLock) | Challenge generator and build roulette for Deadlock (PWA, RU/EN) | [Demo](https://makooyyy.github.io/ChallengeLock/) |
+| [**CPU Powtórka**](https://github.com/makooyyy/cpu-powtorka), [ChallengeLock](https://github.com/makooyyy/ChallengeLock) | Quiz app for CPU, networks and monitors (PL) | [Demo](https://makooyyy.github.io/cpu-powtorka/) |
 
 ---
 
