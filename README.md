@@ -14,7 +14,7 @@
 
 - 🛠 I build web apps, PWAs and interactive learning tools
 - 📚 Focused on vanilla JavaScript, offline-first experiences and clean UI
-- 🌍 Based in Russia
+- 🌍 Based in Europe
 - 🔭 Currently working on: [AM-Tracker](https://github.com/makooyyy/AM-Tracker), [CFOP Academy](https://github.com/makooyyy/cfop-academy), [CPU Powtórka](https://github.com/makooyyy/cpu-powtorka)
 
 ---
